@@ -1,0 +1,60 @@
+1.資訊安全的三目標 : CIA
+    C : Confidentiality : 機密性 : *秘密性與隱私性
+    I : Integrity : 完整性 : *正確性
+    A : Availability : 可用性 : *可獲得性
+    
+    ~~~~~重要資安概念~~~~~
+    1.邊界與分類 : Boundary and classification
+    2.職務區隔 : Segregation of duties, *SOD
+    3.縱深防禦 : Layered defense, defense in depth
+    4.單一脆弱點 : Single point of failure, *SPOF
+    5.阿奇里斯腱 : Achilles heel
+    6.木桶理論 : Bucker principle ?????
+    7.僅知原則 : Need to know
+    
+    ~~~~~~~~~~~~~~~~~~~
+    安全 : Security
+    鑑別性 : Authenticity
+    不可否認性 : Non-repudiation
+    可靠度 : Reliability
+    可歸責性 : Accountability
+    
+    ***ISO 27000系列的資安標準
+        ISO :  International Organization for Standardization (國際標準化組織)
+        ISMS : Information Security Management System (資訊安全管理系統)
+        
+2.資產與風險管理
+    資訊資產包含哪些項目
+      Physical asset : 實體資產
+      Software assets : 軟體資產
+      Information assets: 電子化資訊資產
+      Paper documents : 書面文件
+      Services : 服務
+      People : 人員
+      
+      ~~~~~風險的定義~~~~~
+風險管理:
+      Threat : 威脅
+      Asset : 資產
+      Vulnerability : 脆弱性 
+      Likelihood : 可能性
+
+風險評鑑 (Assessment):
+      identification : 風險識別
+      analysis : 風險分析
+      Evaluation : 風險評估
+      
+風險處理活動:
+      ignore : 不可漠視
+      reduce :　降低
+      Avoid : 避免
+      Accept : 接受
+      Transfer : 移轉
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Asset weakness : 資產弱點
+Risk identification and analysis : 風險識別與分析
+Acceptable risk : 可接受風險
+Residual risk management : 殘餘風險管理
+Data Owner : 資料擁有者
+Data Custodian : 資料保管者
