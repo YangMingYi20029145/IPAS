@@ -49,4 +49,5 @@ C
 提供使用者介面
 功能：檔案、印表、訊息、資料庫、應用服務
 例子：HTTP 、 Telnet 、 SMTP 、 POP3 、 FTP 、 SNMP
+![image].(ositcpip.image.jpg)
 ```
