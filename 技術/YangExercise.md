@@ -51,5 +51,5 @@ C
 例子：HTTP 、 Telnet 、 SMTP 、 POP3 、 FTP 、 SNMP
 ```
 ```
-![ositcpip](ositcpip.jpg)
+![ositcpip.jpg](pic.ositcpip.jpg)
 ```
