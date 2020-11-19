@@ -51,7 +51,7 @@ C
 例子：HTTP 、 Telnet 、 SMTP 、 POP3 、 FTP 、 SNMP
 ```
 ```
-![ositcpip](pic/ositcpip.jpg)
+![ositcpip](pic/ositcpip.png)
 ```
 ```
 [60]TCP/IP 通訊協定中，負責提供定址與路由工作的是哪一層之任務？ 
