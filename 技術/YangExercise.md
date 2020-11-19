@@ -50,9 +50,9 @@ C
 功能：檔案、印表、訊息、資料庫、應用服務
 例子：HTTP 、 Telnet 、 SMTP 、 POP3 、 FTP 、 SNMP
 ```
-```
+
 ![ositcpip](pic/ositcpip.png)
-```
+
 ```
 [60]TCP/IP 通訊協定中，負責提供定址與路由工作的是哪一層之任務？ 
 (A) 應用層 (B) 表達層 (C) 傳輸層 (D) 網路層 
