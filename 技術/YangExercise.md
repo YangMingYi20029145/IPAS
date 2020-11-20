@@ -19,6 +19,7 @@ C
 (二) 資料鏈結層 (Data-Link Layer)
 訊框 (frame) 與實體位置 (MAC)
 分為兩個子層：
+功能 :在兩個網路實體之間提供資料鏈路連接的建立、維持和釋放管理
 (一)邏輯連結控制(Logical Link Control, 簡稱LLC)：訊框遞送、錯誤通知、資料流控制
 (二)媒介存取控制(Media Access Control, 簡稱MAC)：定義傳輸媒體存取的方式，如CSMA/CD、Token Ring等
 例子 ：Physical Address、OSI規定網路上各乙太網路、記號環網路、橋接器等都是在此層運作的。
